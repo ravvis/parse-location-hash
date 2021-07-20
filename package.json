@@ -1,6 +1,6 @@
 {
   "name": "parse-location-hash",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Utility to parse location hash/fragment",
   "main": "index.js",
   "scripts": {
