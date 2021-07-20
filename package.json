@@ -1,0 +1,24 @@
+{
+  "name": "parse-location-hash",
+  "version": "0.0.1",
+  "description": "Utility to parse location hash/fragment",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ravvis/parse-location-hash.git"
+  },
+  "keywords": [
+    "location-hash",
+    "hash",
+    "fragment"
+  ],
+  "author": "Ravindra Singh",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ravvis/parse-location-hash/issues"
+  },
+  "homepage": "https://github.com/ravvis/parse-location-hash#readme"
+}
