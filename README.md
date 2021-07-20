@@ -11,6 +11,8 @@ npm i parse-location-hash
 ## Usage
 
 ```javascript
+import locationHashParser from "parse-location-hash";
+
 // window.location.hash : "#access_token=testToken&token_type=bearer"
 const hash = locationHashParser(window.location.hash);
 
